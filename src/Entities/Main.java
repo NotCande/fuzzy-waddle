@@ -3,6 +3,7 @@ package Entities;
 /**First polymorphism practice I do
  * @author Copied from https://www.youtube.com/watch?v=O3hKxRLkLVU&list=PLQxX2eiEaqbwNP20GMMCjRslRq2lOLWlg&index=11&ab_channel=TodoCode*/
 public class Main {
+
     public static void main(String[] args) {
         GrassType bulbasaur = new GrassType("Bulbasaur");
         ElectricType pikachu = new ElectricType("Pikachu");
